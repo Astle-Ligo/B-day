@@ -27,7 +27,7 @@ body{
 .bg2{
     width: 100vw;
     height: 100vh;
-    background: url("/background/collage2.jpg");
+    background: url("./background/collage2.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position:center;
@@ -39,7 +39,7 @@ body{
 .bg3{
     width: 100vw;
     height: 100vh;
-    background: url("/background/collage3.jpg");
+    background: url("./background/collage3.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position:center;
@@ -51,7 +51,7 @@ body{
 .bg4{
     width: 100vw;
     height: 100vh;
-    background: url("/background/collage4.jpg");
+    background: url("./background/collage4.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position:center;
